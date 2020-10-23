@@ -1,0 +1,1 @@
+This is Shea's first (official) git project!
